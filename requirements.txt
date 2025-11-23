@@ -1,0 +1,5 @@
+typhoon-ocr
+python-dotenv
+PyMuPDF
+tqdm
+colorama
